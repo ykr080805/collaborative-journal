@@ -1,2 +1,3 @@
 "Day 1: Traveled back to see the dinosaurs." 
 "Day 2: Witnessed the first moon landing in 1969." 
+"Day 2: Met aliens on Mars." 
